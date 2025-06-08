@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @D9L9
-- 👀 I’m interested in Kotlin, Android, and Java. I am also interested in C++, but am no longer up to date. 
-- 🌱 I’m currently learning Kotlin / Android / UI / UX
+- 👀 I’m interested in Kotlin, Android, Python, and AI. I am also interested in C++ and Java, but am no longer up to date. 
+- 🌱 I’m currently learning Kotlin / Android / UI / UX as well as using Python with AI automation
 - 💞️ I’m looking to collaborate on Android Applications / Kotlin
--    I do not update here very much as most of my work is stored locally, but I am constantly working and commiting locally.
+-  Note:  I do not update here very much as most of my work is stored locally, but I am constantly working and commiting locally.
 - 📫 How to reach me - here.
 
 <!---
